@@ -3,7 +3,7 @@
 <h3 align="center">A full-stack web developer from Ethiopia</h3>
 
 
-- 🔭 I’m currently studing at (https://www.amu.edu.et/) and studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🔭 I’m currently studing at [AMU](https://www.amu.edu.et/) and studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 I am a full-stack software developer, JavaScript enthusiast, and photographer.
 
