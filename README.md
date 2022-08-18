@@ -1,3 +1,4 @@
+ ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Amanuel Detebo</h1>
 
 <h3 align="center">A full-stack web developer from Ethiopia</h3>
