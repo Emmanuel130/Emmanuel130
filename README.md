@@ -1,13 +1,13 @@
  ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Amanuel Detebo</h1>
 
-<h3 align="center">A full-stack web developer from Ethiopia</h3>
+<h3 align="center">A front-end web developer from Ethiopia</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 
 - 🔭 I’m currently studing at [AMU](https://www.amu.edu.et/) and studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-I am a full-stack software developer, JavaScript enthusiast, and photographer.
+I am a front-end software developer, JavaScript enthusiast, and photographer.
 
 I enjoy thought-provoking conversations about new languages, frameworks, and the African tech start-up scene.
 
