@@ -5,13 +5,13 @@
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 
-- 🔭 I’m currently studing at [AMU](https://www.amu.edu.et/) and studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🔭 I’m graduated from [AMU](https://www.amu.edu.et/) in Software Enginnering program and studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-I am a front-end software developer, JavaScript enthusiast, and photographer.
+I am a front-end software developer.
 
 I enjoy thought-provoking conversations about new languages, frameworks, and the African tech start-up scene.
 
-I obsess about finding better ways to do things as a programmer and as an individual.
+I obsess about finding better ways to do things as a per-programing and as an individual.
 
 
 
