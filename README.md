@@ -7,7 +7,7 @@
 
 - 🔭 I’m graduated from [AMU](https://www.amu.edu.et/) in Software Enginnering program and studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-I am a front-end software developer.
+I am a front-end software developer, content creator, Graphycs designer and photo editor.
 
 I enjoy thought-provoking conversations about new languages, frameworks, and the African tech start-up scene.
 
